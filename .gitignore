@@ -1,4 +1,7 @@
 __pycache__/
 data/
-
-srgan.ipynb
+images/
+test.ipynb
+ceci_4x.png
+ceci.png
+models/srgan_discriminator_x4.h5
