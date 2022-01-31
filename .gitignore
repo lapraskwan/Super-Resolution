@@ -5,3 +5,8 @@ test.ipynb
 ceci_4x.png
 ceci.png
 models/srgan_discriminator_x4.h5
+models/esrgan22_discriminator_x4.h5
+models/esrgan22_x4.h5
+models/esrgan54_discriminator_x4.h5
+# models/esrgan54_x4.h5
+custom.ipynb
